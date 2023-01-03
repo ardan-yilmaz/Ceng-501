@@ -2,5 +2,4 @@
 
 The syllabus of the course is added. 
 
-We are not allowed the share the homeworks done in this course online, however, they are (1) implementing back-propagation algorithm, (2) implementing an autoencoder CNN 
-using PyTorch, and (3) Implementing an easier version of Vision Transformer (ViT).
+We are not allowed the share out implementations to the homeworks given in this course online. However they include implementation of (1) back-propagation algorithm from scratch, (2) an autoencoder CNN using PyTorch, and (3) an easier version of Vision Transformer (ViT).
